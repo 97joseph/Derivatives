@@ -31,3 +31,6 @@ investment of the other two alternatives, by a ratio of at least 3 to 2.
 
 Use linear programming to help the investor decide how to allocate his/her initial investment in each 
 alternative so that the investment’s annual return is maximized. 
+
+![trend](https://user-images.githubusercontent.com/33089347/175230027-688f7add-5bef-4873-a66f-c20c74d9f52b.png)
+
